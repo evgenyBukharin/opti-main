@@ -1,0 +1,77 @@
+<svg class="team-item__icon"
+     id="team-3"
+     viewBox="0 0 91.32 79.07">
+    <defs>
+        <style>.cls-5{fill:none}.cls-5,.cls-6{stroke:#000;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px}.cls-6{fill:#fff}</style>
+    </defs>
+    <g>
+        <path class="cls-5"
+              d="M45.69,72.62A73,73,0,0,0,57,78.07s33.29-11.7,33.29-36V14.79S75.92,13.59,57,1C38.14,13.59,23.75,14.79,23.75,14.79V28.07"
+              stroke-dasharray="177.753662109375"
+              style="stroke-dashoffset: 0px;" />
+        <path class="cls-5"
+              d="M8.32,73.07H38.64a3.43,3.43,0,0,0-.26,1.33A3.67,3.67,0,0,0,42,78.07"
+              stroke-dasharray="37.400081634521484"
+              style="stroke-dashoffset: 0px;" />
+        <path class="cls-5"
+              d="M49.35,28.07H12a3.66,3.66,0,0,0-3.66,3.66V73.07H1.26A3.43,3.43,0,0,0,1,74.4a3.67,3.67,0,0,0,3.66,3.67H42a3.67,3.67,0,0,0,3.66-3.67V33.07h7.06A3.52,3.52,0,0,0,53,31.73,3.66,3.66,0,0,0,49.35,28.07Z"
+              stroke-dasharray="197.24301147460938"
+              style="stroke-dashoffset: 0px;" />
+        <path class="cls-6"
+              d="M53,31.72c0,.11,0,.23,0,.34a3.33,3.33,0,0,1-.24,1H45.69V74.4A3.66,3.66,0,0,1,42,78.06H4.66A3.66,3.66,0,0,1,1,74.4a3.52,3.52,0,0,1,.26-1.34H8.32V31.72A3.66,3.66,0,0,1,12,28.06H49.35A3.66,3.66,0,0,1,53,31.72Z"
+              stroke-dasharray="197.2845458984375"
+              style="stroke-dashoffset: 0px; fill: #0bbbef;;" />
+        <path class="cls-5"
+              d="M49.35,28.07a3.64,3.64,0,0,0-3.65,3.65v1.35"
+              stroke-dasharray="7.0877532958984375"
+              style="stroke-dashoffset: 0px;" />
+        <line class="cls-5"
+              x1="21.47"
+              y1="39.21"
+              x2="31.38"
+              y2="39.21"
+              stroke-dasharray="9.90999984741211"
+              style="stroke-dashoffset: 0px;" />
+        <line class="cls-5"
+              x1="13.55"
+              y1="44.46"
+              x2="40.47"
+              y2="44.46"
+              stroke-dasharray="26.920001983642578"
+              style="stroke-dashoffset: 0px;" />
+        <line class="cls-5"
+              x1="13.55"
+              y1="48.46"
+              x2="40.47"
+              y2="48.46"
+              stroke-dasharray="26.920001983642578"
+              style="stroke-dashoffset: 0px;" />
+        <line class="cls-5"
+              x1="13.55"
+              y1="52.46"
+              x2="40.47"
+              y2="52.46"
+              stroke-dasharray="26.920001983642578"
+              style="stroke-dashoffset: 0px;" />
+        <line class="cls-5"
+              x1="13.55"
+              y1="58.46"
+              x2="23.47"
+              y2="58.46"
+              stroke-dasharray="9.919999122619629"
+              style="stroke-dashoffset: 0px;" />
+        <line class="cls-5"
+              x1="13.55"
+              y1="62.46"
+              x2="23.47"
+              y2="62.46"
+              stroke-dasharray="9.919999122619629"
+              style="stroke-dashoffset: 0px;" />
+        <circle class="cls-5"
+                cx="36.03"
+                cy="62.48"
+                r="4.44"
+                stroke-dasharray="27.18583106994629"
+                style="stroke-dashoffset: 0px;" />
+    </g>
+</svg>
