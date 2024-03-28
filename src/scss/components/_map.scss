@@ -62,6 +62,9 @@
 
 @media (max-width: 768px) {
 	.map {
+		&__container {
+			padding-bottom: 60px;
+		}
 		&__title {
 			font-size: 48px;
 			line-height: 1.4;
@@ -78,13 +81,14 @@
 			top: 40%;
 			transform: translateY(-50%);
 		}
-		&__title {
-		}
 	}
 }
 
 @media (max-width: 480px) {
 	.map {
+		&__container {
+			padding-bottom: 40px;
+		}
 		&__image {
 			position: relative;
 			transform: unset;
